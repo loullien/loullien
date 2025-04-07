@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Luana! 👋
+
+### Hobbies
+- Ler
+- Desenhar
+- Ver filmes e séries
+
+### Formação
+- Universidade Federal do Ceará | Arquitetura e Urbanismo
+- Growdev | Front End Development
+
+### Linguagens
+![icone html](https://img.icons8.com/?size=100&id=112701&format=png&color=000000)
+![icone css](https://img.icons8.com/?size=100&id=111973&format=png&color=000000)
+
+### Estou estudando
+![icone java script](https://img.icons8.com/?size=100&id=hKrJAdwqbGgG&format=png&color=000000)
+
+### Contato
+[![icone linkedin](https://img.icons8.com/?size=100&id=85044&format=png&color=000000)](https://linkedin.com/in/rodrigues-silva-luana)
