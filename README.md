@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Luana! 👋
 
-### Hobbies
-- Ler
-- Desenhar
-- Ver filmes e séries
-
 ### Formação
 - Universidade Federal do Ceará | Arquitetura e Urbanismo
 - Growdev | Front End Development
